@@ -2,6 +2,7 @@
 
 <a name="readme-top"></a>
 
+![GitHub User's stars](https://img.shields.io/github/stars/tobinsia123?style=for-the-badge)
 
 <details>
   <summary>Table of Contents</summary>
