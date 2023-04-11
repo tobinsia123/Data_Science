@@ -3,6 +3,9 @@
 <a name="readme-top"></a>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/tobinsia123?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/tobinsia123/Data_Science?style=for-the-badge)
+![GitHub contributors (via allcontributors.org)](https://img.shields.io/github/all-contributors/tobinsia123/Data_Science)
+
 
 <details>
   <summary>Table of Contents</summary>
