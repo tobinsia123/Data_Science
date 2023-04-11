@@ -4,7 +4,6 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/tobinsia123?style=for-the-badge)
 ![GitHub watchers](https://img.shields.io/github/watchers/tobinsia123/Data_Science?style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/tobinsia123?style=for-the-badge)
 
 <details>
   <summary>Table of Contents</summary>
